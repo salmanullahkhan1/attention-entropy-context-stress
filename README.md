@@ -26,7 +26,6 @@ The study investigates whether **attention entropy** at the query token can serv
 ├── notebooks/              # Jupyter notebooks for experiments & analysis
 ├── paper/                  # Compiled PDF and figures
 ├── results/                # Raw results, metrics, and cached data
-├── attention_entropy_paper.pdf  # Final compiled paper
 ├── README.md               # This file
 ├── requirements            # Python package requirements
 
@@ -35,11 +34,11 @@ The study investigates whether **attention entropy** at the query token can serv
 ## Setup
 
 ```bash
-# Clone the repo
+1. Clone the repo
 git clone https://github.com/salmanullahkhan1/attention-entropy-context-stress.git
 cd attention-entropy-context-stress
 
-# Install dependencies
+2. Install dependencies
 pip install -r requirements
 ```
 
