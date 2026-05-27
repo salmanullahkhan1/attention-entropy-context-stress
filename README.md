@@ -75,16 +75,7 @@ Detailed results, figures, and statistical analysis are available in:
 If you reference this work, please cite:
 
 ```bibtex
-@misc{kennedy2026attention,
-  author       = {Khan, Salman Ullah},
-  title        = {Attention Entropy Under Context Stress: A Multi-Model 
-                  Study of Retrieval Failure in Transformer Language Models},
-  year         = {2026},
-  month        = {May},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20410919},
-  url          = {https://doi.org/10.5281/zenodo.20410919}
-}
+Khan, S. U. (2026). Attention Entropy Under Context Stress: A Multi-Model Study of Retrieval Failure in Transformer Language Models (Type 1.0). Zenodo. https://doi.org/10.5281/zenodo.20410919
 ```
 
 ---
