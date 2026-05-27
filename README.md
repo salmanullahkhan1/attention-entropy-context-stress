@@ -2,6 +2,10 @@
 
 **A multi-model study of attention entropy as a predictor of retrieval failure in transformer language models under context stress.**
 
+**DOI:** 10.5281/zenodo.20410919
+
+**Preprint:** [Read on Zenodo](https://zenodo.org/record/20410919)
+
 **Date**: May 24, 2026
 
 ## Overview
@@ -65,6 +69,23 @@ Detailed results, figures, and statistical analysis are available in:
 - `paper/attention_entropy_paper.pdf`
 - `notebooks/` (reproducible analysis)
 - `results/` directory
+
+ ## Citation
+
+If you reference this work, please cite:
+
+```bibtex
+@misc{kennedy2026attention,
+  author       = {Khan, Salman Ullah},
+  title        = {Attention Entropy Under Context Stress: A Multi-Model 
+                  Study of Retrieval Failure in Transformer Language Models},
+  year         = {2026},
+  month        = {May},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.20410919},
+  url          = {https://doi.org/10.5281/zenodo.20410919}
+}
+```
 
 ---
 
